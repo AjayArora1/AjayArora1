@@ -1,14 +1,15 @@
-Hi, I’m Ajay Arora; I'm a software developer.
+Hello, I'm Ajay Arora, a dedicated full-stack software developer with a strong passion for computer programming and learning new technologies.
 
-I’m interested in computer programming in languages such as Java, Python, VB, C#. I'm also familiar with SQL databases and Linux based systems. My preferred IDEs are eclipse for object-oriented programming, and Visual Studio for web development work using HTML, CSS, and JavaScript.
+My expertise spans various languages, including C++, Python, and C# for back-end languages, as well as HTML, CSS, JavaScript, and PHP on the front-end.
 
-I currently have a 4-year degree in Computing Science from Thompson Rivers University.
+I possess a proficient understanding of SQL databases, specifically PostgreSQL, and Linux-based systems. For object-oriented programming, I utilize Visual Studio as my preferred IDE.
 
-Please feel free to contact me at arora.ajay90@gmail.com. If you do this, please indicate that you were referred from my Github profile.
+I hold a 4-year degree in Computing Science from Thompson Rivers University, and have just over 1 year of professional experience in the field of software development.
 
-Kind regards,
+Feel free to reach out to me at arora.ajay90@gmail.com. When connecting, kindly mention that you were referred from my Github profile.
 
-- Ajay Arora
+Best regards,
+Ajay Arora
 
 <!---
 AjayArora1/AjayArora1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
